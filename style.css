@@ -14,4 +14,7 @@
 
 .btn-colo{
     background-color: #ff4d94;
+    color: white;
+    border-radius: 5px;
+    border:none;
 }
